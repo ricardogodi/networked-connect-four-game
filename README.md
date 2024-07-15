@@ -34,7 +34,7 @@ Extract the downloaded JavaFX SDK to a known location on your machine. You will 
 
 Clone this repository to your local machine using Git:
 ```bash
-  git clone https://your-repository-url.git
+  git clone https://github.com/ricardogodi/networked-connect-four-game.git
   cd networked-connect-four-game
 ```
 ### 6. Run the Server
