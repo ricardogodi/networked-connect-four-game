@@ -41,7 +41,7 @@ Clone this repository to your local machine using Git:
 
 First, start the server. Navigate to the server directory and use the following command, ensuring to replace /path/to/javafx-sdk-22.0.1/lib with the actual path to your JavaFX lib directory:
 ```bash
- java --module-path /Users/ricardogonzalez/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar target/serverProgramProjectThree-0.0.1-SNAPSHOT.jar
+ java --module-path /path/to/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar target/serverProgramProjectThree-0.0.1-SNAPSHOT.jar
 ```
 The server GUI allows you to listen on a default port 5555.
 
@@ -49,7 +49,7 @@ The server GUI allows you to listen on a default port 5555.
 
 Next, start the client application. Navigate to the client directory and use the following command:
 ```bash
- java --module-path /Users/ricardogonzalez/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar target/clientProgramProjectThree-0.0.1-SNAPSHOT.jar
+ java --module-path /path/to/javafx-sdk-22.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar target/clientProgramProjectThree-0.0.1-SNAPSHOT.jar
 ```
 On the client GUI, specify the server’s IP address and port number to connect. Default buttons are provided for quick access.
 
