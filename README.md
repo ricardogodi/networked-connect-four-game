@@ -53,6 +53,16 @@ Next, start the client application. Navigate to the client directory and use the
 ```
 On the client GUI, specify the server’s IP address and port number to connect. Default buttons are provided for quick access.
 
+## Included Files
+
+The repository includes several key files and documents that support and document the development and functionality of the Networked Connect Four Game:
+
+- **UML Diagram**: Visual representation of the project's structure and relationships.
+- **Wireframe**: Visual guide that represents the skeletal framework of the user interfaces.
+- **Networking Algorithm Flow Diagram**: Outlines the processes involved in the server-client communication.
+- **Checking for a Winner Algorithm**: Details the logic used to determine the game's winner.
+- **Gameplay Example (1, 2, 3)**: Sample gameplay scenarios to illustrate typical game interactions and outcomes.
+
 ## Features
 
 - Detailed game logic for a competitive and engaging two-player experience.
